@@ -14,6 +14,8 @@ pkg install python
 
 pkg install git -y
 
+pip install fake_useragent
+
 pip install requests colorama
 
 rm -rf SMS
@@ -22,4 +24,4 @@ git clone https://github.com/rkm008/SMS
 
 cd SMS
 
-python sms.py
+python sms2.py
