@@ -18,10 +18,10 @@ pip install fake_useragent
 
 pip install requests colorama
 
-rm -rf SMS
+rm -rf BOMB
 
-git clone https://github.com/rkm008/SMS
+git clone https://github.com/rkm008/BOMB
 
-cd SMS
+cd BOMB
 
 python sms2.py
