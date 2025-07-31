@@ -24,4 +24,4 @@ git clone https://github.com/rkm008/BOMB
 
 cd BOMB
 
-python sms2.py
+python bomb.py
