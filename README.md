@@ -16,7 +16,9 @@ pkg install git -y
 
 pip install fake_useragent
 
-pip install requests colorama
+pip install requests 
+
+pip install colorama
 
 rm -rf BOMB
 
